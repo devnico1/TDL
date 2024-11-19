@@ -1,6 +1,6 @@
 To Do List (TDL)
 
-Features
+Features:
 The user can create, read, delete and save tasks;
 No database needed;
 Created tasks are stored in a file named "Tasks.xml";
