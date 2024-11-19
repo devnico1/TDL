@@ -6,3 +6,4 @@ No database needed;
 Created tasks are stored in a file named "Tasks.xml";
 GUI for a better experience;
 Each task has it's creation date.
+The file "Tasks.xml" is located in bin/debug/
